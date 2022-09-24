@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "920222611315",
+    "project_id": "city-to-city-72303",
+    "storage_bucket": "city-to-city-72303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920222611315:android:f90e58a3256c4108c4b706",
+        "android_client_info": {
+          "package_name": "com.humsafar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920222611315-09h3edqlushr395miu642f3hsdu8jlbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humsafar",
+            "certificate_hash": "2eb0e1fb145121138b86844de7ef75d950d99a7c"
+          }
+        },
+        {
+          "client_id": "920222611315-gf2iam2fturp5g6p0esebenfjmd68gih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humsafar",
+            "certificate_hash": "b426be1b80f1464996caa78070756ce5567de01a"
+          }
+        },
+        {
+          "client_id": "920222611315-soeigb60g15i18rp8078s0fl31q720bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUhRQ9IGmEHFja6jrav_RmeQr9Evy9yd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920222611315-soeigb60g15i18rp8078s0fl31q720bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920222611315-43dnbc00lb7v5aafkm3eim9c12vburvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.humsafar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920222611315:android:9245f1f738105fe7c4b706",
+        "android_client_info": {
+          "package_name": "com.travel.humsafar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920222611315-soeigb60g15i18rp8078s0fl31q720bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUhRQ9IGmEHFja6jrav_RmeQr9Evy9yd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920222611315-soeigb60g15i18rp8078s0fl31q720bd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920222611315-43dnbc00lb7v5aafkm3eim9c12vburvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.humsafar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

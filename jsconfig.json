@@ -1,0 +1,55 @@
+{
+    "exclude": [
+        "node_modules"
+    ],
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "baseUrl": "./",
+        "jsx": "react-native",
+        "paths": {
+            "#src": [
+                "./"
+            ],
+            "#assets/*": [
+                "./src/assets/*"
+            ],
+            "#redux/*": [
+                "./src/redux/*"
+            ],
+            "#config/*": [
+                "./src/config/*"
+            ],
+            "#containers/*": [
+                "./src/containers/*"
+            ],
+            "#common/*": [
+                "./src/components/common/*"
+            ],
+            "#res/*": [
+                "./src/res/*"
+            ],
+            "#util/*": [
+                "./src/util/*"
+            ],
+            "#components/*": [
+                "./src/components/*"
+            ],
+            "#context/*": [
+                "./src/context/*"
+            ],
+            "#hoc/*": [
+                "./src/hoc/*"
+            ],
+            "#navigation/*": [
+                "./src/navigation/*"
+            ],
+            "#models/*": [
+                "./src/models/*"
+            ],
+            "#data/*": [
+                "./src/data/*"
+            ],
+        }
+    }
+}
